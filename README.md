@@ -77,7 +77,7 @@ The project was implemented using the following tools and libraries:
 
 Below is an example correlation heatmap used during exploratory data analysis to identify relationships between variables.
 
-![Correlation Heatmap](visuals/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png.png)
 
 ---
 
