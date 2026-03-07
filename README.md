@@ -42,6 +42,12 @@ The dataset used in this study was collected through a structured healthcare sur
 - Medication adherence percentage
 - Treatment cost (USD)
 
+### Data Source
+
+The dataset was collected through an online healthcare survey designed for this research study.
+
+- Survey form used for data collection:  
+ https://forms.gle/MKupe61AmQ7i4JZ27
 ---
 
 ## Project Workflow
