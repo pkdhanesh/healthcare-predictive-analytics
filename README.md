@@ -121,10 +121,10 @@ Some limitations of this project include:
 
 Future work could include:
 
-- Using larger and more diverse healthcare datasets
-- Applying deep learning models for more complex prediction tasks
-- Implementing explainable AI techniques such as SHAP or LIME
-- Developing a healthcare decision-support application based on the trained model
+- Using larger and more diverse healthcare datasets.
+- Applying deep learning models for more complex prediction tasks.
+- Implementing explainable AI techniques such as SHAP or LIME.
+- Developing a healthcare decision-support application based on the trained model.
 
 ---
 
